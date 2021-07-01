@@ -5,8 +5,6 @@ if param == 1:
     print(1)
 elif param == 2:
     print(2)
-elif param == 1:            # Noncompliant
-    print(3)
 
 if param == 1:
     print(1)
