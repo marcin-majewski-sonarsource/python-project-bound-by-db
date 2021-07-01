@@ -11,10 +11,6 @@ if param == 1:
 else:
     if param == 2:
         print(2)
-    else:
-        if param == 2:            # Noncompliant
-            print(3)
-
 
 if param == 1:
     print(1)
