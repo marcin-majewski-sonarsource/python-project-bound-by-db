@@ -1,0 +1,7 @@
+organization=marcin-majewski-sonarsource
+projectKey=python-project-bound-by-db
+serverUrl=https://squad-3-core.sc-dev.io
+serverVersion=8.0.0.16710
+dashboardUrl=https://squad-3-core.sc-dev.io/dashboard?id=python-project-bound-by-db&pullRequest=1
+ceTaskId=AXc_e1pMlEdacnpBFauF
+ceTaskUrl=https://squad-3-core.sc-dev.io/api/ce/task?id=AXc_e1pMlEdacnpBFauF
